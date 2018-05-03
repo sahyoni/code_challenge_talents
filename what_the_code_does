@@ -1,0 +1,3 @@
+this code is doing like array filtering, so we have an external array and internal array.
+we filtering the external array and assign each value from the external array to an internal array (by index) and order it from the min value to the max value and remove all the nil from the array then we return all the elements of the last array using class Enumerator and represent the result like [[index, :value], [index, :value]].
+P.S: this is a very short explanation there are more details if needed in the combiner.rb file like #comments
